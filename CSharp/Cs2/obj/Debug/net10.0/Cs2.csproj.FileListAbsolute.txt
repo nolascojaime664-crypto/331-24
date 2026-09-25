@@ -1,0 +1,14 @@
+C:\Users\nolas\Desktop\CSharp\Cs2\bin\Debug\net10.0\Cs2.exe
+C:\Users\nolas\Desktop\CSharp\Cs2\bin\Debug\net10.0\Cs2.deps.json
+C:\Users\nolas\Desktop\CSharp\Cs2\bin\Debug\net10.0\Cs2.runtimeconfig.json
+C:\Users\nolas\Desktop\CSharp\Cs2\bin\Debug\net10.0\Cs2.dll
+C:\Users\nolas\Desktop\CSharp\Cs2\bin\Debug\net10.0\Cs2.pdb
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.AssemblyInfoInputs.cache
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.AssemblyInfo.cs
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.csproj.CoreCompileInputs.cache
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.dll
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\refint\Cs2.dll
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.pdb
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\Cs2.genruntimeconfig.cache
+C:\Users\nolas\Desktop\CSharp\Cs2\obj\Debug\net10.0\ref\Cs2.dll
